@@ -10,8 +10,6 @@ Foi criada uma documentação completa sobre Code Review para Pull Requests do p
 - Ideal para manter no repositório Git
 - Formato legível em qualquer editor de texto
 
-**Localização:** `/Users/mateusazevedo/www/pontua/front/CODE_REVIEW_GUIDE.md`
-
 ### 2. **CODE_REVIEW_GUIDE.html** ✅
 - Documento em **HTML** profissional e bem formatado
 - **Pronto para abrir no Microsoft Word** (File → Open)
@@ -21,8 +19,6 @@ Foi criada uma documentação completa sobre Code Review para Pull Requests do p
 - Blocos de código com destaque
 - Páginas bem estruturadas com quebras automáticas
 - Checkboxes formatados (☐ e ☑)
-
-**Localização:** `/Users/mateusazevedo/www/pontua/front/CODE_REVIEW_GUIDE.html`
 
 ---
 
@@ -105,10 +101,10 @@ O guia cobre os seguintes tópicos:
 
 O guia também traz uma recomendação clara sobre o tamanho das PRs:
 
-- ✅ **Ideal:** 1-3 arquivos alterados
-- ✅ **Aceitável:** 4-8 arquivos alterados
-- ⚠️ **Alerta:** 9-15 arquivos alterados
-- ❌ **Rejeitar:** > 15 arquivos alterados
+- ✅ **Ideal:** 1-5 arquivos alterados
+- ✅ **Aceitável:** 6-10 arquivos alterados
+- ⚠️ **Alerta:** 11-20 arquivos alterados
+- ❌ **Rejeitar:** > 20 arquivos alterados
 
 ---
 
